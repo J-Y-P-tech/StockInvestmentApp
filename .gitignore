@@ -1,5 +1,8 @@
-*.docx # Ignore instrucitons data
-.idea/ # Ignore created by PyCharm folder
+# Ignore instrucitons data
+*.docx
+# Ignore created by PyCharm folder
+.idea/
+.dockerignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
